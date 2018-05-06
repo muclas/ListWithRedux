@@ -1,2 +1,0 @@
-# ListWithRedux
-Created with CodeSandbox
